@@ -12,7 +12,7 @@ const ms = require("ms");
 const path = require("path");
 const axios = require("axios");
 const moment = require("moment");
-const Nuggies = require('nuggies');
+const Nuggies = require('nvvvvuggies');
 require('@weky/inlinereply');
 const discord = require("discord.js");
 const client = new Client({
